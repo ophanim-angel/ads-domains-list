@@ -10605,3 +10605,105 @@
 
 # [zynga.com]
 127.0.0.1 log-collector.svctr.zynga.com
+
+# === GOOGLE & ADMOB & PLAY STORE ADS ===
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
+adservice.google.com
+googleadservices.com
+www.googleadservices.com
+app-measurement.com
+analytics.google.com
+click.googleanalytics.com
+measurement.api.google.com
+android.clients.google.com
+ads.google.com
+partnerad.l.doubleclick.net
+ias.google.com
+
+# === META / FACEBOOK AUDIENCE NETWORK ===
+graph.facebook.com
+an.facebook.com
+audience.network.facebook.com
+b-graph.facebook.com
+connect.facebook.net
+edge-mqtt.facebook.com
+pixel.facebook.com
+
+# === UNITY ADS (ألعاب الموبايل) ===
+unityads.unity3d.com
+ads.prd.ie.internal.unity3d.com
+config.unityads.unity3d.com
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+analytics.unity3d.com
+
+# === APPLOVIN ===
+ads.applovin.com
+ms.applovin.com
+a.applovin.com
+rt.applovin.com
+staging.applovin.com
+pdn.applovin.com
+
+# === IRONSOURCE ===
+adservice.ironsrc.com
+ext.ironsrc.com
+init.supersonicads.com
+a.ironsrc.com
+edge.simplereach.com
+
+# === VUNGLE / LIFTOFF ===
+ads.vungle.com
+api.vungle.com
+config.vungle.com
+data.vungle.com
+events.vungle.com
+
+# === INMOBI ===
+config.inmobi.com
+c.inmobi.com
+r.inmobi.com
+p.inmobi.com
+sdk.inmobi.com
+
+# === MINTEGRAL ===
+analytics.mintegral.com
+api.mintegral.com
+adnet.mintegral.com
+cdn-adn.chartboost.com
+
+# === ADCOLONY ===
+adc3-launch.adcolony.com
+events-3.adcolony.com
+wd.adcolony.com
+ads.adcolony.com
+
+# === CHARTBOOST ===
+live.chartboost.com
+cb-init.chartboost.com
+api.chartboost.com
+
+# === FLURRY / YAHOO MOBILE ===
+ads.flurry.com
+data.flurry.com
+analytics.flurry.com
+
+# === APPMONET & CRITEO ===
+ads.criteo.com
+bidder.criteo.com
+sdk.criteo.com
+api.appmonet.com
+
+# === MOBILE TRACKING & MEDIATION (الوساطة والتتبع) ===
+api.adjust.com
+app.adjust.com
+control.kochava.com
+tracker.kochava.com
+api.appsflyer.com
+events.appsflyer.com
+cdn.branch.io
+api2.branch.io
